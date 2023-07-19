@@ -1,8 +1,7 @@
-# I am looking for a contributor to this repository. I don't need this node anymore and didn't want to develop it any more. However, I can host it myself, so save yourself the inquiries whether you can host it!
+# Forked by Andreas König
 
 # This component has some problems if the network connection to the PLC is interrupted, the PLC is not running, incorrect data is stored for the PLC or there is a deployment in the node red.
 Everyone can take care of the problems, eliminate them and make a request.
-But let that cry in the issues.
 
 # node-red-contrib-ads
 
